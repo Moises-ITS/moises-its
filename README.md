@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003768,100:00213d&height=200&section=header&text=Moises%20Zuniga&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-### 🎓 Computer Science & AI | Class of 2028 | Cybersecurity Engineer
+### 🎓 Computer Science & AI | Class of 2028 | Security Engineer
 **New Jersey Institute of Technology (NJIT)**
 
 I am currently developing my foundation in CS and AI with a deep focus on **Cybersecurity**. I spend my time building projects that bridge the gap between automated scripting and endpoint defense.

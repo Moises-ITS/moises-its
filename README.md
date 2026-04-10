@@ -79,6 +79,7 @@ I’m less focused on just writing code and more focused on:
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn: https://linkedin.com/in/moiseszuniga  
-- 🛠 GitHub: https://github.com/Moises-ITS  
+- 🛠 GitHub: https://github.com/Moises-ITS
+- 🌐 Portfolio: https://your-portfolio-link.com  
 
 ---

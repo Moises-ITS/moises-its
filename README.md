@@ -37,9 +37,10 @@ Currently working at the intersection of **backend engineering, graph systems, a
 ## 💻 Technical Stack
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
@@ -77,7 +78,7 @@ I’m less focused on just writing code and more focused on:
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/moises-zuniga  
+- 💼 LinkedIn: https://linkedin.com/in/moiseszuniga  
 - 🛠 GitHub: https://github.com/Moises-ITS  
 
 ---

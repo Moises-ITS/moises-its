@@ -2,46 +2,82 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003768,100:00213d&height=200&section=header&text=Moises%20Zuniga&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
-### 🎓 Computer Science & AI | Security Engineer
+### 🎓 Computer Science & AI | Backend & Systems Engineer  
 **New Jersey Institute of Technology (NJIT)**
 
-I am currently developing my foundation in CS and AI with a deep focus on **Cybersecurity**. I spend my time building projects that bridge the gap between automated scripting and endpoint defense.
+I build **scalable backend systems** that power data-heavy applications, with a strong focus on **system architecture, performance, and real-world reliability**.  
+
+Currently working at the intersection of **backend engineering, graph systems, and AI security**, designing systems that handle complex relationships, large datasets, and production-like workloads.
 
 ---
 
-### 🛠️ Core Focus
-- 🛡️ **Endpoint Security Development** – Hardening systems and building defensive tools.
-- ⚙️ **Automated Scripting** – Streamlining security workflows and data processing.
-- 🌐 **Web Security** – Exploring vulnerabilities and secure architecture.
+## ⚙️ What I Focus On
+- 🧠 **System Architecture** – Designing scalable APIs, data flows, and service layers  
+- ⚡ **Backend Performance** – Caching (Redis), query optimization, and efficient data access  
+- 🔗 **Graph-Based Systems** – Modeling relationships using Neo4j for recommendation + discovery  
+- 🔐 **AI & LLM Security** – Analyzing vulnerabilities in autonomous systems and data pipelines  
 
 ---
 
-### 📚 Currently Learning
-- 🏗️ **Low-Level Logic:** Data Structures, Algorithms, & OOP.
-- ☁️ **Cloud & Network:** Cloud Security & OSI Layer 6 (Presentation) vulnerabilities.
+## 🚀 Current Work
+- Building **JitHub** — a graph-powered platform connecting students, companies, and opportunities  
+- Designing **high-performance APIs** using Node.js, Express, PostgreSQL, and Neo4j  
+- Implementing **Redis caching layers** to reduce latency and scale read-heavy systems  
+- Researching **LLM security & agent behavior** under real-world attack scenarios  
 
 ---
 
-### 💻 Technical Toolbox
+## 📚 Currently Learning
+- 🏗️ **Advanced System Design** – Distributed systems, caching strategies, and scalability  
+- ⚡ **Backend Optimization** – Query planning, indexing, and data modeling  
+- 🤖 **AI Systems** – LLM architecture, agents, and secure deployment pipelines  
 
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+---
+
+## 💻 Technical Stack
+
+### Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Libraries & Security Tools**
-![Nmap](https://img.shields.io/badge/nmap-%234F892A.svg?style=for-the-badge&logo=nmap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-D92C2C?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🧠 Engineering Mindset
+
+I’m less focused on just writing code and more focused on:
+- how systems scale  
+- how data flows through architectures  
+- how to reduce latency and improve reliability  
+- how to build systems that **actually hold up in production**
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/moises-zuniga  
+- 🛠 GitHub: https://github.com/Moises-ITS  
+
+---
